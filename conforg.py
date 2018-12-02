@@ -1,1 +1,1 @@
-a=int(input("enter the value of a:"))
+a=int(input("enter something bbe"))
